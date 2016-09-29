@@ -4,7 +4,7 @@ Small library provides the opportunity to check whether a word, a combination of
 # Installation
 
 ```shell
-  npm install is-palindrome --save
+  npm install is-this-palindrome --save
 ```
 
 # Usage
