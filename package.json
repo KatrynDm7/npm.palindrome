@@ -1,0 +1,30 @@
+{
+  "name": "is-palindrome",
+  "version": "1.0.0",
+  "description": "Simple javascript palindrome check",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatrynDm7/npm.palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "is",
+    "palidrome",
+    "palindrome",
+    "check"
+  ],
+  "author": "Katryn Dmitruk <dmytrukk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KatrynDm7/npm.palindrome/issues"
+  },
+  "homepage": "https://github.com/KatrynDm7/npm.palindrome#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0"
+  }
+}
