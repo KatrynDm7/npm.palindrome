@@ -1,5 +1,5 @@
 {
-  "name": "is-palindrome",
+  "name": "is-this-palindrome",
   "version": "1.0.0",
   "description": "Simple javascript palindrome check",
   "main": "index.js",
@@ -12,10 +12,8 @@
   },
   "keywords": [
     "palindrome",
-    "is",
-    "palidrome",
-    "palindrome",
-    "check"
+    "palindrome check",
+    "is palindrome"
   ],
   "author": "Katryn Dmitruk <dmytrukk@gmail.com>",
   "license": "MIT",

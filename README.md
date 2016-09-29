@@ -10,7 +10,7 @@ Small library provides the opportunity to check whether a word, a combination of
 # Usage
 
 ```js
-  var palindrome = require('is-palindrome');
+  var palindrome = require('is-this-palindrome');
   var isPalindrome = palindrome.isPalindrome;
   console.log(isPalindrome("A man, a plan, a canal: Panama."));
   console.log(isPalindrome("not a Palindrom"));
