@@ -12,7 +12,7 @@ describe("#isPalindrome", function() {
   });
 
   it("should return true", function() {
-    isPalindrome("101").should.equal(true);
+    isPalindrome(101).should.equal(true);
   });
 
   it("should return true", function() {
