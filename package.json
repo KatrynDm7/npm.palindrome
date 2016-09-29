@@ -1,6 +1,6 @@
 {
   "name": "is-this-palindrome",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple javascript palindrome check",
   "main": "index.js",
   "scripts": {
