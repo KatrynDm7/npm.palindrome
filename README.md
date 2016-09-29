@@ -1,9 +1,11 @@
 # npm.palindrome
-Is-this-palindrome it is a small and simple library providing the opportunity to check input parameters like:
-    - string
-    - word
-    - combination of numbers
-is a palindrome or not
+<ul type="square">
+"is-this-palindrome" it is a small and simple library providing the opportunity to check input parameters like:
+    <li>string</li>
+    <li>word</li>
+    <li>combination of numbers</li>
+    is a palindrome or not
+</ul>
 
 # Installation
 
