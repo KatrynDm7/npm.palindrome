@@ -1,5 +1,9 @@
 # npm.palindrome
-Small library provides the opportunity to check whether a word, a combination of numbers, a palindrome is a string or not.
+Is-this-palindrome it is a small and simple library providing the opportunity to check input parameters like:
+    - string
+    - word
+    - combination of numbers
+is a palindrome or not
 
 # Installation
 
